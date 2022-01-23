@@ -1,0 +1,2 @@
+This a Phone Book Application.
+It has options to add new contact , list the contacts, modify,search for a contact,Delete, and to exit the program.
